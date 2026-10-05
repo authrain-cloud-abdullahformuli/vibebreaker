@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use VibeBreaker, please cite it using these metadata."
+title: "VibeBreaker: 20-Pass Adversarial Audit Protocol for Vibe-Coded Software"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/vibebreaker"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/vibebreaker"
+license: MIT
+keywords:
+  - vibe-coding
+  - security-audit
+  - code-review
+  - coding-agents
+  - devsecops
